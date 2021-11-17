@@ -1,9 +1,9 @@
 ---
-title: "Due"
+title: "Uno"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["blog"]
 author: "Michele Braga"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Il primo post del blog"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -44,4 +44,4 @@ Ho divorato il corso – in realtà non era poi così lungo – e mi sono procur
 
 Stasera però ho preso un'altra decisione. Sarà lavolta buona? Non lo so, ma questa forse è la chiave di tutto. Ho deciso che è giunto il momento di fare almeno il primo passo, giare la chiave e accendere il motore. Questa volta voglio provare a navigare a vista e scorpire strada facendo cosa fare e cosa pubblicare, senza cercare di pianificare minuziosamente tutti gli aspetti di questo progetto.
 
-Quello che mi appresto a fare nei prossimi minuti - spero non si trasformino in ore per la mia imperizia - è sincornizzare tutto sulla repository di GitHub e tentare di mettere online il blog. Ore 1.00 del mattino del 6 novebre 2021 ... si parte.
+Quello che mi appresto a fare nei prossimi minuti - spero non si trasformino in ore per la mia imperizia - è sincornizzare tutto sulla repository di GitHub e tentare di mettere online il blog. Ore 1.00 del mattino del 6 novembre 2021 ... si parte.
