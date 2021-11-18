@@ -50,7 +50,7 @@ params:
 
   label:
     text: "mikbraga.net"
-    icon: /mikbraga-logo.jpg
+    icon: 
     iconHeight: 35
 
   # profile-mode
@@ -70,14 +70,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: 
+    Content: Benvenuti nel mio blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/mikbraga"
+    - name: instagram
+      url: "https://instagram.com/mikbraga75"
+    - name: flickr
+      url: "https://www.flickr.com/photos/193876009@N08/"
+    - name: linkedin
+      url: ""
     - name: github
       url: "https://github.com/"
 
@@ -112,15 +116,15 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
+    - identifier: about
+      name: About
       url: https://example.org
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
