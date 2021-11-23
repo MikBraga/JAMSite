@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Il primo post del blog"
+description: "Ogni lungo viaggio comincia con un primo passo. A volte serve un pizzico di incoscienza e leggerezza per parire."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://res.cloudinary.com/mikbraga/image/upload/v1636153971/blog/Spark-1_qxxkwp.jpg" # image path/url
+    image: "/img/pressstart-1-BN.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
