@@ -27,6 +27,10 @@
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
+  {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+  {{- partial "share_icons.html" . -}}
+  {{- end }}
+
 
   {{- if .Content }}
   <div class="post-content">
