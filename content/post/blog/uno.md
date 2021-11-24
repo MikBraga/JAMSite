@@ -41,7 +41,11 @@ Ho divorato il corso – in realtà non è poi così lungo – e mi sono procura
 
 Stasera però ho preso un'altra decisione. Sarà la volta buona? Non lo so, ma questa forse è la chiave di tutto. Ho deciso che è giunto il momento di fare almeno il primo passo, giare la chiave e accendere il motore. Questa volta voglio provare a navigare a vista e scoprire strada facendo cosa fare e cosa pubblicare, senza cercare di pianificare minuziosamente tutti gli aspetti di questo progetto.
 
+<<<<<<< HEAD
 Quello che mi appresto a fare nei prossimi minuti - spero non non siano ore per la mia imperizia - è sincornizzare tutto sulla repository di GitHub e tentare di mettere online il blog. Ore 1.00 del mattino del 6 novembre 2021 ... si parte.
+=======
+Quello che mi appresto a fare nei prossimi minuti - spero non siano ore per la mia imperizia - è sincronizzare tutto sulla repository di GitHub e tentare di mettere online il blog. Ore 1.00 del mattino del 6 novembre 2021 ... si parte.
+>>>>>>> 8303d0d26cd764c2b9bec7f71547ef7b05ad1025
 
 Sono stato troppo ottimista! Le ore che avevo messo in previsione sono diventate giorni. Oggi è il 18 novembre 2021. Sono incappato in qualche problema di troppo, quindi ho deciso di ripartire da zero anche sul fronte dell'aspetto del blog. Però il primo risultato è stato centrato: il blog è effettivamente online e collegato al dominio ... yeah! 
 
