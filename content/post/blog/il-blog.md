@@ -1,6 +1,6 @@
 ---
 title: "Architettura del blog"
-date: 2021-11-24T23:41:53+01:00
+date: 2021-11-26T02:41:53+01:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["blog"]
