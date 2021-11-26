@@ -24,12 +24,13 @@
   {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden
   }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
-  {{- end }}
   {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
   {{- partial "share_icons.html" . -}}
   {{- end }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+  <hr / style="border-bottom: 1px solid #9b111e;">
 
 
   {{- if .Content }}
@@ -40,6 +41,7 @@
   </div>
   {{- end }}
 
+  <hr / style="border-bottom: 1px solid #9b111e;">
   <footer class="post-footer">
     {{- if .Params.tags }}
     <ul class="post-tags">

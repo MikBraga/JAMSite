@@ -80,10 +80,10 @@ params:
       url: "https://instagram.com/mikbraga75"
     - name: flickr
       url: "https://www.flickr.com/photos/193876009@N08/"
+    - name: email
+      url: ""
     - name: linkedin
       url: ""
-    - name: github
-      url: "https://github.com/"
 
   analytics:
     google:
