@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: mikbraga.net
-  description: "ExampleSite description"
+  description: "Il blog di Michele Braga"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -123,9 +123,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: about
-      name: About
-      url: https://example.org
+    - identifier: contatti
+      name: Contatti
+      url: /page/contatti/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

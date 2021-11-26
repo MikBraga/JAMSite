@@ -27,10 +27,11 @@
   {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
   {{- partial "share_icons.html" . -}}
   {{- end }}
+  <hr / style="border-bottom: 1px solid #9b111e;">
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}
-  <hr / style="border-bottom: 1px solid #9b111e;">
+
 
 
   {{- if .Content }}

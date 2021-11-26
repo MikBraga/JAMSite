@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Come ho costruito questo blog spendendo veramente poco grazie all'architetura Jamstack e servizi cloud in versione gratuita."
+description: "Come ho costruito questo blog spendendo veramente poco grazie all'architettura Jamstack e servizi cloud in versione gratuita."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -47,17 +47,17 @@ Il termine *decoupling* indica invece la separazione netta tra i diversi servizi
 Da qualche tempo il mio dispositivo di lavoro principale è un iPad Pro 12.9 (2021) a cui affianco un MacBook Pro 15" del 2018; tuttavia per sviluppare il blog ho scelto di approntare una macchina virtuale Microsoft Windows 10. La decisione è frutto di molteplici fattori: non era possibile installare l'ambiente di sviluppo in iPadOS; non volevo fare esperimenti sul MacBook Pro di produzione; volevo poter anche lavorare dall'iPad Pro e, qualora ne avessi avuto bisogno, volevo che l'ambiente di sviluppo fosse accessibile da remoto.
 La scelta finale è stata frutto di un altro esperimento messo in cantiere durante la costruzione della mia postazione di lavoro domestica: un piccolo HomeLab del quale magari vi racconterò qualcosa in futuro.
 
-{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637885229/blog/architettura-blog/homelab-ESXi-1_rulxbh.jpg" title=" ">}}
+{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637926009/blog/architettura-blog/homelab-esxi-1_plic5r.png" title=" ">}}
 
 Per il momento vi dico che utilizzo un sistema Intel NUC – NUC10i7FNH – sul quale ho installato l'hypervisor VMware ESXi. Utilizzo questa piattaforma per diversi tipi di esperimenti e per ospitare la macchina virtuale Windows 10 per lo sviluppo del blog.
 Le singole pagine di questo blog sono file markdown. C'è una sezione riservata ai metadata e a contenere alcuni flag e parametri relativi al singolo post, una sezione con il corpo del post e i vari shortcode che uso per inserire elementi come le immagini o rimandare a servizi esterni. Tutti i sorgenti del blog sono poi caricati in una repository GitHub così da essere accessibili al servizio cloud Netlify; questo come spiego più avanti si occupa di generare della fase di pre-rendering e di distribuzione su CDN. Dimenticato, le immagini – tranne alcune – sono fornite on demand attraverso il servizio cloud Cloudinary.
 
-{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637885235/blog/architettura-blog/homelab-ESXi-3_skqhdh.jpg" title=" ">}}
+{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637926010/blog/architettura-blog/homelab-esxi-3_jcs5bg.png" title=" ">}}
 
 ## Microsoft Visual Studio Code
 Per lavorare sul codice del blog ho dovuto scegliere un buon editor, uno strumento in grado di aiutarmi con la sintassi dei diversi linguaggi di markup. Ho scelto Microsoft Visual Studio perché mi ci sono trovato subito piuttosto bene e perché è disponibile anche per macOS e  Linux. Qualora decidessi di cambiare ambiente di sviluppo non dovrei adattarmi a un nuovo strumento, ma semplicemente installare Visual Studio Code sulla nuova piattaforma. Per di più Visual Studio Code è completamente gratuito e l'installazione di base è praticamente pronta all'uso (ho fatto giusto un paio di aggiustamenti alle preferenze). Peccato non esista una versione per iPadOS.
 
-{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637888774/blog/architettura-blog/visual-studio-code-ipadpro_lctq7i.jpg" title="Visual Studio Code in macchina virtuale su iPad Pro tramite desktop remoto.">}}
+{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637961369/blog/architettura-blog/visual-studio-code-iPadPro_vkcamz.png" title="Visual Studio Code in macchina virtuale su iPad Pro tramite desktop remoto.">}}
 
 ## Editor di testo
 Non ho ancora preso una decisione definitiva circa l'editor di testo che intendo utilizzare per scrivere i contenuti del sito; sicuramente non Visual Studio Code: va bene per il codice ma non per la scrittura. Per di più è scartato in partenza visto che non esiste una versione per iPadOS.
@@ -71,7 +71,7 @@ Una volta generato il sito web potete utilizzare Hugo per attivare un servizio d
 ## Cloudinary
 Per la gestione delle immagini presenti nel blog ho deciso di provare Cloudinary. Si tratta di un servizio cloud – uso solo l'account gratuito – concepito per archiviare e organizzare contenuti multimediali serviti attraverso un link. Questo accorgimento permette di sfruttare le grandi potenzialità di un servizio specializzato nella distribuzione di contenuti multimediali e di alleggerire al tempo stesso l'impronta del blog nella repository di GitHub visto che le immagini, almeno la maggior parte, sono esterne al blog e caricate al volo insieme al resto del contenuto della pagina web.
 
-{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637889080/blog/architettura-blog/cloudinary-ipadpro_rjxupb.jpg">}}
+{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1637961362/blog/architettura-blog/cloudinary-ipadpro_dlbpfa.png">}}
 
 ## GitHub
 Per mettere online il blog con l'architettura Jamstack ho dovuto creare una repository remota con i sorgenti necessari a generare le pagine html del blog stesso. Ho scelto GitHub, ma è possibile utilizzare altre piattaforme. Questo passaggio è l'anello di congiunzione tra l'ambiente di sviluppo locale e la piattaforma che integra i servizi di generazione e pubblicazione del blog, Netlify.
@@ -89,4 +89,12 @@ Seguendo le istruzioni di Netlify sono bastati pochi minuti per configurare i pa
 ## Costi
 In questa analisi dei costi ho escluso il mio hardware perché in effetti basterebbe molto meno. Anche un Raspberry Pi 4 con una distrubuzione Linux.
 
-
+| Servizio           | Costo (euro) |
+| ------------------ | ------------ |
+| GitHub             | 0            |
+| Visual Studio Code | 0            |
+| Netlify            | 0            |
+| Cloudinary         | 0            |
+| Google Domains     | 12           |
+| ------------------ | ------------ | 
+| Totale             | 12           |
