@@ -1,6 +1,6 @@
 ---
 title: "Info e contatti"
-date: 2021-11-27T23:30:03+00:00
+date: 2021-11-27T23:30:03+01:00
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
