@@ -39,3 +39,8 @@ Sin da piccolo sulla parete della mia camera c'erano progetti dello STS – più
 Da più di 20 anni mi occupo e scrivo di tecnologia sulle pagine di PC Professionale con la stessa curiosità che mi ha permesso di imparare a usare il primo computer: avevo poco più di dieci anni quando a metà degli anni '80 arrivò a casa un clone di IBM XT, uno di quelli con il monitor a fosfori verdi e doppio lettore di floppy disk da 5,25 pollici.  
 La tecnologia è la passione diventata lavoro, ma quando posso mi piace dedicarmi a molte altre cose: fotografia, viaggi, montagna, arrampicata e di recente la corsa per citarne qualcuna.  
 Non sono mai stato un grande utilizzatore dei canali social. Sono un po' orso da questo punto di vista, ma la mia filosofia è che non si è mai troppo vecchi per cominciare o per cambiare.
+
+• [Email](mailto:mikbraga.net@gmail.com)  
+• [Twitter](https://twitter.com/mikbraga)  
+• [Instagram](https://instagram.com/mikbraga75)   
+• [Flickr](https://www.flickr.com/photos/193876009@N08/)
