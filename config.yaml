@@ -83,7 +83,7 @@ params:
     - name: email
       url: ""
     - name: linkedin
-      url: ""
+      url: "https://www.linkedin.com/in/michele-braga-0ab818"
 
   analytics:
     google:
