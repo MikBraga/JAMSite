@@ -1,6 +1,6 @@
 ---
-title: "Test"
-date: 2021-11-19T23:15:31+01:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
@@ -32,9 +32,3 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-# Primo capitolo
-In questo spazio c'è il testo relativo al primo capitolo
-## Sottocapitolo?
-# Secondo capitolo
-Qui invece comincia il secondo capitolo
