@@ -8,7 +8,7 @@ author: "Michele Braga"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "10 giorni alla scoperta dell'Islanda e alla ricerca dell'aurora boreale."
@@ -36,20 +36,24 @@ editPost:
 
 ## Giorno 1 | Keflavik - Vik
 
-## Giorno 2 | Vik - Jokursalon - Vik
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638227354/trip/iceland-2014/Islanda-2014-D1-small-9_pk9hx6.jpg" title="Primo assaggio del suolo islandese dopo aver ritirato il nostro fidato mezzo di viaggio: un Suzuki Vitara 4x4.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638226691/trip/iceland-2014/Islanda-2014-D1-9_lfpwve.jpg)
 
-## Giorno 3 | Vik - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638228584/trip/iceland-2014/Islanda-2014-D1-small-10_aolsdp.jpg" title="Cose che ... quando guardi le gomme ti chiedi quali esperienze di guida ti aspettano lungo il viaggio.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638228581/trip/iceland-2014/Islanda-2014-D1-10_wnfplp.jpg)
 
-## Giorno 4 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638227815/trip/iceland-2014/Islanda-2014-D1-small-3_v4anbf.jpg" title="Un primo scorcio dei contrasti che caratterizzano il territorio: i colori e gli elementi naturali lottano tra loro in un ambiente tanto austero quanto ammaliante.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638227818/trip/iceland-2014/Islanda-2014-D1-3_wikk83.jpg)
 
-## Giorno 5 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229054/trip/iceland-2014/Islanda-2014-D1-small-6_ld92zj.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229058/trip/iceland-2014/Islanda-2014-D1-6_setu1j.jpg)
 
-## Giorno 6 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638227819/trip/iceland-2014/Islanda-2014-D1-small-2_vqlzna.jpg" title="La terra che scotta! La zona a sud dell'aeroporto di Keflavik ha una forte attività geotermica. Il vapore naturale è sfruttato per produrre energia elettrica e per il teleriscaldamento.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638227821/trip/iceland-2014/Islanda-2014-D1-2_cfxted.jpg)
 
-## Giorno 7 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229722/trip/iceland-2014/Islanda-2014-D1-small-5_eqcknb.jpg" title="Chilomentri di tubature luccicanti si snodano come serpenti tra le rocce di questa zona lunare. Sembra un enorme sistema di arterie e vene che portano la vita attraverso il territorio.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229720/trip/iceland-2014/Islanda-2014-D1-5_vbsa6f.jpg)
 
-## Giorno 8 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229718/trip/iceland-2014/Islanda-2014-D1-small-4_wnfc8d.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229718/trip/iceland-2014/Islanda-2014-D1-4_vjl4fx.jpg)
 
-## Giorno 9 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229721/trip/iceland-2014/Islanda-2014-D1-small-7_q9lnqr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229725/trip/iceland-2014/Islanda-2014-D1-7_l3jefu.jpg)
 
-## Giorno 10 | ? - ?
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229720/trip/iceland-2014/Islanda-2014-D1-small-8_uvuwtn.jpg" title="Come si coltivano i funghi in questa terra battuta dagli eventi atmosferici, sferzata dal freddo e scaldata dalle viscere della terra? Dentro queste serre illuminate a giorno e visibili da chilometri di distanza si coltiva di tutto.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229725/trip/iceland-2014/Islanda-2014-D1-8_rovnfq.jpg)
+
+[{{<figure src="">}}]()
+
+## Giorno 2 | work in progress ...
