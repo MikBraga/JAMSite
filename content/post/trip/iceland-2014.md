@@ -56,7 +56,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229720/trip/iceland-2014/Islanda-2014-D1-small-8_uvuwtn.jpg" title="Come si coltivano i funghi in questa terra battuta dagli eventi atmosferici, sferzata dal freddo e scaldata dalle viscere della terra? Dentro queste serre illuminate a giorno e visibili da chilometri di distanza si coltiva di tutto.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229725/trip/iceland-2014/Islanda-2014-D1-8_rovnfq.jpg)
 
-## Giorno 2 | Jokulsarlon
+## Giorno 2 | Vik - Jokulsarlon - Vik
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739611/trip/iceland-2014/Islanda-2014-D2-small-1_zxgdnq.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739613/trip/iceland-2014/Islanda-2014-D2-1_iuh2bz.jpg)
 
@@ -76,4 +76,42 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739617/trip/iceland-2014/Islanda-2014-D2-small-12_si3iyp.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739608/trip/iceland-2014/Islanda-2014-D2-11_hkkjy4.jpg)
 
-[{{<figure src="">}}]()
+## Giorno 3 | Vik - Gulfoss
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-3_bdjgaq.jpg" title="Burrascosi risvegli (Ammessa al 4° Concorso Fotografico Nazionale Trofep Città di Follonica 2015 - Tema libero)">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917531/trip/iceland-2014/Islanda-2014-D3-3_h7otuj.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917549/trip/iceland-2014/Islanda-2014-D3-small-1_b9xchf.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917532/trip/iceland-2014/Islanda-2014-D3-1_mfsovj.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-2_riw4pv.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917555/trip/iceland-2014/Islanda-2014-D3-2_tuikvi.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-small-21_phtklv.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-21_nww8hh.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917551/trip/iceland-2014/Islanda-2014-D3-small-14_h9qn0z.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917556/trip/iceland-2014/Islanda-2014-D3-14_psv0t9.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917550/trip/iceland-2014/Islanda-2014-D3-small-9_yyzpli.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917567/trip/iceland-2014/Islanda-2014-D3-9_fokh3q.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638921066/trip/iceland-2014/Islanda-2014-D3-small-13_mtwrxn.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638921073/trip/iceland-2014/Islanda-2014-D3-13_f8xj1j.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638921073/trip/iceland-2014/Islanda-2014-D3-small-11_auukby.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638921074/trip/iceland-2014/Islanda-2014-D3-11_ym2w7j.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917550/trip/iceland-2014/Islanda-2014-D3-small-4_iue5n2.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917537/trip/iceland-2014/Islanda-2014-D3-4_vu4lhb.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917551/trip/iceland-2014/Islanda-2014-D3-small-7_xsznq4.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917541/trip/iceland-2014/Islanda-2014-D3-7_u7xuah.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917550/trip/iceland-2014/Islanda-2014-D3-small-5_iizoau.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917540/trip/iceland-2014/Islanda-2014-D3-5_z6wane.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638921065/trip/iceland-2014/Islanda-2014-D3-small-16_mzhgza.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638921068/trip/iceland-2014/Islanda-2014-D3-16_wus2zj.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638921066/trip/iceland-2014/Islanda-2014-D3-small-17_tdfaym.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638921071/trip/iceland-2014/Islanda-2014-D3-17_du8hfv.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-15_k5jev0.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917568/trip/iceland-2014/Islanda-2014-D3-15_w278nr.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-18_owis6f.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917545/trip/iceland-2014/Islanda-2014-D3-18_ufar8c.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-19_pcdabi.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917544/trip/iceland-2014/Islanda-2014-D3-19_mwmw8z.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-20_siqcld.jpg" title="Effetto serra in terra islandica. Sono sempre le serre illuminate a giorno un po' sullo stile del film L'erba di Grace">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-20_vz7uty.jpg)
+
+## Giorno 4 | work in progress ...
+
+[{{<figure src="" title="">}}]()
