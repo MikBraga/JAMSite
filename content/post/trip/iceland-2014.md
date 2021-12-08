@@ -78,7 +78,7 @@ editPost:
 
 ## Giorno 3 | Vik - Gulfoss
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-3_bdjgaq.jpg" title="Burrascosi risvegli (Ammessa al 4° Concorso Fotografico Nazionale Trofep Città di Follonica 2015 - Tema libero)">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917531/trip/iceland-2014/Islanda-2014-D3-3_h7otuj.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-3_bdjgaq.jpg" title="Burrascosi risvegli (Ammessa al 4° Concorso Fotografico Nazionale Trofeo Città di Follonica 2015 - Tema libero)">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917531/trip/iceland-2014/Islanda-2014-D3-3_h7otuj.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917549/trip/iceland-2014/Islanda-2014-D3-small-1_b9xchf.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917532/trip/iceland-2014/Islanda-2014-D3-1_mfsovj.jpg)
 
@@ -106,7 +106,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-19_pcdabi.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917544/trip/iceland-2014/Islanda-2014-D3-19_mwmw8z.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-20_siqcld.jpg" title="Effetto serra in terra islandica. Sono sempre le serre illuminate a giorno un po' sullo stile del film L'erba di Grace">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-20_vz7uty.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-20_siqcld.jpg" title="Effetto serra in terra islandica. Sono sempre le serre illuminate a giorno un po' sullo stile del film L'erba di Grace.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-20_vz7uty.jpg)
 
 ## Giorno 4 | work in progress ...
 
