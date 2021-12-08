@@ -100,10 +100,6 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917550/trip/iceland-2014/Islanda-2014-D3-small-5_iizoau.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917540/trip/iceland-2014/Islanda-2014-D3-5_z6wane.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638921065/trip/iceland-2014/Islanda-2014-D3-small-16_mzhgza.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638921068/trip/iceland-2014/Islanda-2014-D3-16_wus2zj.jpg)
-
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638921066/trip/iceland-2014/Islanda-2014-D3-small-17_tdfaym.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638921071/trip/iceland-2014/Islanda-2014-D3-17_du8hfv.jpg)
-
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-15_k5jev0.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917568/trip/iceland-2014/Islanda-2014-D3-15_w278nr.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-18_owis6f.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917545/trip/iceland-2014/Islanda-2014-D3-18_ufar8c.jpg)
