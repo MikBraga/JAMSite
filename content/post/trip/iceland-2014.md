@@ -80,9 +80,9 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-3_bdjgaq.jpg" title="Burrascosi risvegli (Ammessa al 4° Concorso Fotografico Nazionale Trofeo Città di Follonica 2015 - Tema libero)">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917531/trip/iceland-2014/Islanda-2014-D3-3_h7otuj.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917549/trip/iceland-2014/Islanda-2014-D3-small-1_b9xchf.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917532/trip/iceland-2014/Islanda-2014-D3-1_mfsovj.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917549/trip/iceland-2014/Islanda-2014-D3-small-1_b9xchf.jpg" title="Il contatto con l'ambiente è parte essenziale dell'esplorazione.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917532/trip/iceland-2014/Islanda-2014-D3-1_mfsovj.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-2_riw4pv.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917555/trip/iceland-2014/Islanda-2014-D3-2_tuikvi.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-2_riw4pv.jpg" title="Altri mondi.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917555/trip/iceland-2014/Islanda-2014-D3-2_tuikvi.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-small-21_phtklv.jpg" title="Le onde ... ipnotiche ... trascinano la mente e i pensieri lontano dalla riva ... ti scuotono con potenza e fragore per poi ritirarsi cancellando le proprie tracce e quelle altrui.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-21_nww8hh.jpg)
 
