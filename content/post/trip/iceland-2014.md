@@ -84,7 +84,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-2_riw4pv.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917555/trip/iceland-2014/Islanda-2014-D3-2_tuikvi.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-small-21_phtklv.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-21_nww8hh.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-small-21_phtklv.jpg" title="Le onde ... ipnotiche ... trascinano la mente e i pensieri lontano dalla riva ... ti scuotono con potenza e fragore per poi ritirarsi cancellando le proprie tracce e quelle altrui.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-21_nww8hh.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917551/trip/iceland-2014/Islanda-2014-D3-small-14_h9qn0z.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917556/trip/iceland-2014/Islanda-2014-D3-14_psv0t9.jpg)
 
@@ -100,7 +100,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917550/trip/iceland-2014/Islanda-2014-D3-small-5_iizoau.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917540/trip/iceland-2014/Islanda-2014-D3-5_z6wane.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-15_k5jev0.jpg" title="Le onde ... ipnotiche ... trascinano la mente e i pensieri lontano dalla riva ... ti scuotono con potenza e fragore per poi ritirarsi cancellando le proprie tracce e quelle altrui.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917568/trip/iceland-2014/Islanda-2014-D3-15_w278nr.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-15_k5jev0.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917568/trip/iceland-2014/Islanda-2014-D3-15_w278nr.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917552/trip/iceland-2014/Islanda-2014-D3-small-18_owis6f.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917545/trip/iceland-2014/Islanda-2014-D3-18_ufar8c.jpg)
 
