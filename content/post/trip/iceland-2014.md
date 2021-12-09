@@ -84,7 +84,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-2_riw4pv.jpg" title="Altri mondi.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917555/trip/iceland-2014/Islanda-2014-D3-2_tuikvi.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-small-21_phtklv.jpg" title="Le onde ... ipnotiche ... trascinano la mente e i pensieri lontano dalla riva ... ti scuotono con potenza e fragore per poi ritirarsi cancellando le proprie tracce e quelle altrui.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-21_nww8hh.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-small-21_phtklv.jpg" title="Le onde ... ipnotiche ... trascinano la mente e i pensieri lontano dal corpo ... ti scuotono con potenza e fragore per poi ritirarsi cancellando le proprie tracce e quelle altrui.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638919115/trip/iceland-2014/Islanda-2014-D3-21_nww8hh.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917551/trip/iceland-2014/Islanda-2014-D3-small-14_h9qn0z.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917556/trip/iceland-2014/Islanda-2014-D3-14_psv0t9.jpg)
 
