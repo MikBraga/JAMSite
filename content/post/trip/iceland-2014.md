@@ -108,6 +108,18 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-20_siqcld.jpg" title="Effetto serra in terra islandica. Sono sempre le serre illuminate a giorno un po' sullo stile del film L'erba di Grace.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-20_vz7uty.jpg)
 
-## Giorno 4 | work in progress ...
+## Giorno 4 | Gulfoss - Hellisholar
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640553369/trip/iceland-2014/Islanda-2014-D4-small-1_mjxhsr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640553370/trip/iceland-2014/Islanda-2014-D4-1_maixft.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640553362/trip/iceland-2014/Islanda-2014-D4-small-3_allssu.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640553371/trip/iceland-2014/Islanda-2014-D4-3_vxw6hr.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640553369/trip/iceland-2014/Islanda-2014-D4-small-2_irfiza.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640553366/trip/iceland-2014/Islanda-2014-D4-2_gbamjv.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640553369/trip/iceland-2014/Islanda-2014-D4-small-4_wqo1u1.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640553372/trip/iceland-2014/Islanda-2014-D4-4_oakppv.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640554444/trip/iceland-2014/Islanda-2014-D4-small-5_lgq3pr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640554443/trip/iceland-2014/Islanda-2014-D4-5_ygp8ym.jpg)
+
+## Giorno 5 | Hellisholar - Hellissandur ... in progress
 
 [{{<figure src="" title="">}}]()
