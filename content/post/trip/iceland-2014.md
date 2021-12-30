@@ -34,7 +34,7 @@ editPost:
 ---
 
 
-## Giorno 1 | Keflavik - Vik
+## **Giorno 1** | Keflavik - Vik
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638227354/trip/iceland-2014/Islanda-2014-D1-small-9_pk9hx6.jpg" title="Primo assaggio del suolo islandese dopo aver ritirato il nostro fidato mezzo di viaggio: un Suzuki Vitara 4x4.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638226691/trip/iceland-2014/Islanda-2014-D1-9_lfpwve.jpg)
 
@@ -56,7 +56,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638229720/trip/iceland-2014/Islanda-2014-D1-small-8_uvuwtn.jpg" title="Come si coltivano i funghi in questa terra battuta dagli eventi atmosferici, sferzata dal freddo e scaldata dalle viscere della terra? Dentro queste serre illuminate a giorno e visibili da chilometri di distanza si coltiva di tutto.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638229725/trip/iceland-2014/Islanda-2014-D1-8_rovnfq.jpg)
 
-## Giorno 2 | Vik - Jokulsarlon - Vik
+## **Giorno 2** | Vik - Jokulsarlon - Vik
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739611/trip/iceland-2014/Islanda-2014-D2-small-1_zxgdnq.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739613/trip/iceland-2014/Islanda-2014-D2-1_iuh2bz.jpg)
 
@@ -76,7 +76,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739617/trip/iceland-2014/Islanda-2014-D2-small-12_si3iyp.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739608/trip/iceland-2014/Islanda-2014-D2-11_hkkjy4.jpg)
 
-## Giorno 3 | Vik - Gulfoss
+## **Giorno 3** | Vik - Gulfoss
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-small-3_bdjgaq.jpg" title="Burrascosi risvegli (Ammessa al 4° Concorso Fotografico Nazionale Trofeo Città di Follonica 2015 - Tema libero)">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917531/trip/iceland-2014/Islanda-2014-D3-3_h7otuj.jpg)
 
@@ -108,7 +108,7 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638917553/trip/iceland-2014/Islanda-2014-D3-small-20_siqcld.jpg" title="Effetto serra in terra islandica. Sono sempre le serre illuminate a giorno un po' sullo stile del film L'erba di Grace.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638917547/trip/iceland-2014/Islanda-2014-D3-20_vz7uty.jpg)
 
-## Giorno 4 | Gulfoss - Hellisholar
+## **Giorno 4** | Gulfoss - Hellisholar
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640553369/trip/iceland-2014/Islanda-2014-D4-small-1_mjxhsr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640553370/trip/iceland-2014/Islanda-2014-D4-1_maixft.jpg)
 
@@ -120,6 +120,6 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640554444/trip/iceland-2014/Islanda-2014-D4-small-5_lgq3pr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640554443/trip/iceland-2014/Islanda-2014-D4-5_ygp8ym.jpg)
 
-## Giorno 5 | Hellisholar - Hellissandur ... in progress
+## **Giorno 5** | Hellisholar - Hellissandur ... in progress
 
 [{{<figure src="" title="">}}]()
