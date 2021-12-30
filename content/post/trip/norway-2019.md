@@ -8,7 +8,7 @@ author: "Michele Braga"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Da Kirkenes a Bergen a bordo della MS Lofoten. Un viaggio indimenticabile tra i fiordi norvegesi in pieno inverno."
