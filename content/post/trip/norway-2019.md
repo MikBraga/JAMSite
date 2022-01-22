@@ -49,6 +49,8 @@ editPost:
 
 ## **Giorno 3** | Tromsø - Finnsnes - Harstad - Risøyhamn - Sortland - Stokmarknes - Svolvær - Stamsund
 
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642863957/trip/norway-2019/Norway-D3-small-9_gecvxz.jpg" title="">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642863957/trip/norway-2019/Norway-D3-9_fftd7a.jpg)
+
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819698/trip/norway-2019/Norway-D3-small-10_i4ikqe.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819695/trip/norway-2019/Norway-D3-10_tyozyv.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819701/trip/norway-2019/Norway-D3-small-13_n8xhsc.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819698/trip/norway-2019/Norway-D3-13_kp3pmh.jpg)
@@ -58,6 +60,16 @@ editPost:
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819702/trip/norway-2019/Norway-D3-small-19_ggqbjx.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819704/trip/norway-2019/Norway-D3-19_yye4hs.jpg)
 
 ## **Giorno 4** | Bodø - Ørnes - Nesna - Sandnessjøen - Brønnøysund - Rørvik
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640820241/trip/norway-2019/Norway-APE-small-1_r5igkc.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640820245/trip/norway-2019/Norway-APE-1_juontq.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864807/trip/norway-2019/Norway-D4-small-20_pzbfaq.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864809/trip/norway-2019/Norway-D4-20_xhjjue.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864799/trip/norway-2019/Norway-D4-small-21_rrulex.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864801/trip/norway-2019/Norway-D4-21_juqeoy.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864801/trip/norway-2019/Norway-D4-small-22_zdsaml.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864809/trip/norway-2019/Norway-D4-22_cwmkpo.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864802/trip/norway-2019/Norway-D4-small-23_j2nd08.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864809/trip/norway-2019/Norway-D4-23_rjjrwt.jpg)
 
 ## **Giorno 5** | Trondheim - Kristiansund - Molde
 
