@@ -71,6 +71,20 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864802/trip/norway-2019/Norway-D4-small-23_j2nd08.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864809/trip/norway-2019/Norway-D4-23_rjjrwt.jpg)
 
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876117/trip/norway-2019/Norway-D4-small-24_vo86lm.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876118/trip/norway-2019/Norway-D4-24_abjrf8.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876119/trip/norway-2019/Norway-D4-small-25_jcthv7.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876128/trip/norway-2019/Norway-D4-25_x441rl.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876122/trip/norway-2019/Norway-D4-small-26_srq2pp.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876123/trip/norway-2019/Norway-D4-26_xw2pqc.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876124/trip/norway-2019/Norway-D4-small-27_bdmx3x.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876128/trip/norway-2019/Norway-D4-27_wtlabc.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876126/trip/norway-2019/Norway-D4-small-28_zlltzi.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876132/trip/norway-2019/Norway-D4-28_wsibpz.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876124/trip/norway-2019/Norway-D4-small-29_ryol3t.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876133/trip/norway-2019/Norway-D4-29_g1l0a9.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876125/trip/norway-2019/Norway-D4-small-30_rosymd.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876119/trip/norway-2019/Norway-D4-30_yhdfvq.jpg)
+
 ## **Giorno 5** | Trondheim - Kristiansund - Molde
 
 ## **Giorno 6** | Ålesund - Torvik - Måløy - Florø - Bergen
