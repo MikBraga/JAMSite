@@ -52,13 +52,13 @@ La MS Lofoten ha catturato i miei occhi dalla prima volta che ho visitato il sit
 
 ## **Giorno 3** | Tromsø - Finnsnes - Harstad - Risøyhamn - Sortland - Stokmarknes - Svolvær - Stamsund
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642863957/trip/norway-2019/Norway-D3-small-9_gecvxz.jpg" title="">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642863957/trip/norway-2019/Norway-D3-9_fftd7a.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642863957/trip/norway-2019/Norway-D3-small-9_gecvxz.jpg" title="L'arrivo a Tromsø, a cavallo tra il secondo e il terzo giorno di navigazione, è uno spettacolo indimenticabile. L'aria fredda e limpidissima permette di ammirare la città illuminata a giorno che si staglia davanti alle alture dei fiordi.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642863957/trip/norway-2019/Norway-D3-9_fftd7a.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819698/trip/norway-2019/Norway-D3-small-10_i4ikqe.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819695/trip/norway-2019/Norway-D3-10_tyozyv.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819698/trip/norway-2019/Norway-D3-small-10_i4ikqe.jpg" title="L'architettura della chiesa di Tromsø è tanto semplice quanto inconfondibile.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819695/trip/norway-2019/Norway-D3-10_tyozyv.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819701/trip/norway-2019/Norway-D3-small-13_n8xhsc.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819698/trip/norway-2019/Norway-D3-13_kp3pmh.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819701/trip/norway-2019/Norway-D3-small-13_n8xhsc.jpg" title="Con l'avvicinarsi delle ore del mattino è possibile ammirare in tutta la loro bellezza le alture dei fiordi pennellati dalla neve.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819698/trip/norway-2019/Norway-D3-13_kp3pmh.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819701/trip/norway-2019/Norway-D3-small-17_f7ccfw.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819705/trip/norway-2019/Norway-D3-17_ndz9bg.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819701/trip/norway-2019/Norway-D3-small-17_f7ccfw.jpg" title="La vista è irrinunciabile. Sfidando il freddo e l'aria del mattino resto a fianco del ponte di comando ad ammirare lo spettacolo dei fiordi, del porto che pian piano si avvicina, dei ponti che si lanciano sull'acqua per unire lembi di terra e della luce che avvolge tutto e cattura gli occhi.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819705/trip/norway-2019/Norway-D3-17_ndz9bg.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819702/trip/norway-2019/Norway-D3-small-19_ggqbjx.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819704/trip/norway-2019/Norway-D3-19_yye4hs.jpg)
 
