@@ -33,10 +33,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640812423/trip/norway-2019/norway-trip-small-1_nuqc7n.jpg" title="Da Kirkenes a Bergen a bordo della MS Lofoten.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640812423/trip/norway-2019/norway-trip-1_cabmc3.jpg)
-
 Era già da qualche anno che parlando di viaggi futuri saltava fuori l'idea di attraversare i fiordi nell'oscurità della notte nordica lungo la rotta del "postale dei fiordi". Il progetto è stato regolarmente accantonato per la difficoltà di far combaciare impegni, ferie, budget e la possibilità di realizzare quel viaggio come l'avevamo immaginato. Sul finire dell'estate del 2018, con un pizzico di sana follia e complice la possibilità di realizzare quel viaggio a bordo della [MS Lofoten](https://en.wikipedia.org/wiki/MS_Lofoten), abbiamo deciso di organizzare e prenotare: partenza il 1 gennaio 2019.
 La MS Lofoten ha catturato i miei occhi dalla prima volta che ho visitato il sito della [Hurtigruten](https://global.hurtigruten.com/destinations/norway/), la compagnia norvegese che percorre la rotta Bergen - Kirkenes - Bergen. La flotta della Hurtigruten annovera vascelli moderni con la stazza di vere e proprie navi da crociera, ma la nostra idea di viaggio era ben diversa. Volevamo sperimentare, per quanto possibile, un viaggio meno moderno, meno comodo, più genuino e che conservasse ancora qualcosa dell'idea che ci eravamo fatti del "postale dei fiordi".
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640812423/trip/norway-2019/norway-trip-small-1_nuqc7n.jpg" title="Da Kirkenes a Bergen a bordo della MS Lofoten.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640812423/trip/norway-2019/norway-trip-1_cabmc3.jpg)
 
 ## **Giorno 1** | Kirkenes - Vadsø - Vardø - Båtsfjord - Berlevåg
 
