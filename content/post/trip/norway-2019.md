@@ -60,13 +60,13 @@ La MS Lofoten ha catturato i miei occhi dalla prima volta che ho visitato il sit
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819701/trip/norway-2019/Norway-D3-small-17_f7ccfw.jpg" title="La vista è irrinunciabile. Sfidando il freddo e l'aria del mattino resto a fianco del ponte di comando ad ammirare lo spettacolo dei fiordi, del porto che pian piano si avvicina, dei ponti che si lanciano sull'acqua per unire lembi di terra e della luce che avvolge tutto e cattura gli occhi.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819705/trip/norway-2019/Norway-D3-17_ndz9bg.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819702/trip/norway-2019/Norway-D3-small-19_ggqbjx.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819704/trip/norway-2019/Norway-D3-19_yye4hs.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640819702/trip/norway-2019/Norway-D3-small-19_ggqbjx.jpg" title="Come punti di sutura i ponti legano lembi di terra dei fiordi. Sono eleganti, essenziali e pare quasi che facciano parte di questi luoghi da sempre.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640819704/trip/norway-2019/Norway-D3-19_yye4hs.jpg)
 
 ## **Giorno 4** | Bodø - Ørnes - Nesna - Sandnessjøen - Brønnøysund - Rørvik
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640820241/trip/norway-2019/Norway-APE-small-1_r5igkc.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640820245/trip/norway-2019/Norway-APE-1_juontq.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1640820241/trip/norway-2019/Norway-APE-small-1_r5igkc.jpg" title="Lasciato il porto alle spalle, la prua della MS Lofoten punta l'orizzonte scrivendo la propria rotta sulla superficie tranquilla delle acque del fiordo.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1640820245/trip/norway-2019/Norway-APE-1_juontq.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864807/trip/norway-2019/Norway-D4-small-20_pzbfaq.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864809/trip/norway-2019/Norway-D4-20_xhjjue.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864807/trip/norway-2019/Norway-D4-small-20_pzbfaq.jpg" title="Silenzio e sguardo rivolto all'orizzonte in attesa di riprendere il viaggio di cui ormai ci sentiamo parte. La MS Lofoten e il suo carico di persone sono diventate la nostra casa mobile.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864809/trip/norway-2019/Norway-D4-20_xhjjue.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642864799/trip/norway-2019/Norway-D4-small-21_rrulex.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642864801/trip/norway-2019/Norway-D4-21_juqeoy.jpg)
 
