@@ -85,6 +85,18 @@ editPost:
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642876125/trip/norway-2019/Norway-D4-small-30_rosymd.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642876119/trip/norway-2019/Norway-D4-30_yhdfvq.jpg)
 
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928831/trip/norway-2019/Norway-D4-small-31_ok7zrh.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928833/trip/norway-2019/Norway-D4-31_zphqtg.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928834/trip/norway-2019/Norway-D4-small-32_kqatbr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928841/trip/norway-2019/Norway-D4-32_g59cav.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928830/trip/norway-2019/Norway-D4-small-33_jsgtck.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928840/trip/norway-2019/Norway-D4-33_tsgwhl.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928834/trip/norway-2019/Norway-D4-small-34_kk9ayd.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928833/trip/norway-2019/Norway-D4-34_rkba8a.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928836/trip/norway-2019/Norway-D4-small-35_v6w0hd.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928842/trip/norway-2019/Norway-D4-35_jsmthp.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928836/trip/norway-2019/Norway-D4-small-36_ajyvnl.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928840/trip/norway-2019/Norway-D4-36_zmvs10.jpg)
+
 ## **Giorno 5** | Trondheim - Kristiansund - Molde
 
 ## **Giorno 6** | Ålesund - Torvik - Måløy - Florø - Bergen
