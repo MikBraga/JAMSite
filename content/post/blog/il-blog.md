@@ -3,7 +3,7 @@ title: "Architettura del blog"
 date: 2021-11-26T02:41:53+01:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["blog"]
+tags: ["blog", "jamstack", "netlify", "hugo", "cloudinary", "google"]
 author: "Michele Braga"
 # author: ["Me", "You"] # multiple authors
 showToc: true
