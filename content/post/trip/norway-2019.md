@@ -100,8 +100,38 @@ La MS Lofoten ha catturato i miei occhi dalla prima volta che ho visitato il sit
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1642928836/trip/norway-2019/Norway-D4-small-36_ajyvnl.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1642928840/trip/norway-2019/Norway-D4-36_zmvs10.jpg)
 
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398490/trip/norway-2019/Norway-D4-small-37_ql0kp0.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398522/trip/norway-2019/Norway-D4-37_j4p6ip.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398484/trip/norway-2019/Norway-D4-small-38_hhu03n.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398505/trip/norway-2019/Norway-D4-38_ptqlvc.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398498/trip/norway-2019/Norway-D4-small-39_rxzvyh.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398527/trip/norway-2019/Norway-D4-39_tftyxz.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398483/trip/norway-2019/Norway-D4-small-40_gjxvq8.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398517/trip/norway-2019/Norway-D4-40_d035jw.jpg)
+
 ## **Giorno 5** | Trondheim - Kristiansund - Molde
 
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398512/trip/norway-2019/Norway-D5-small-41_xcazgh.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398489/trip/norway-2019/Norway-D5-41_surf76.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398513/trip/norway-2019/Norway-D5-small-42_owrd7u.jpg" title="Attraversata la linea che delimita il circolo polare artico rivedremo il sole alzarsi sopra l'orizzonte.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398494/trip/norway-2019/Norway-D5-42_iffocm.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398514/trip/norway-2019/Norway-D5-small-43_jde6ls.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398498/trip/norway-2019/Norway-D5-43_hyfcg2.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398515/trip/norway-2019/Norway-D5-small-44_lpj2jc.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398525/trip/norway-2019/Norway-D5-44_akvnht.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398516/trip/norway-2019/Norway-D5-small-45_l497l3.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398500/trip/norway-2019/Norway-D5-45_y6l0r7.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398522/trip/norway-2019/Norway-D5-small-46_pj06sk.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398502/trip/norway-2019/Norway-D5-46_ccsfmt.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398517/trip/norway-2019/Norway-D5-small-47_z280mv.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398505/trip/norway-2019/Norway-D5-47_bw4pua.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398518/trip/norway-2019/Norway-D5-small-48_z0qsqf.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398507/trip/norway-2019/Norway-D5-48_mjrceb.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398518/trip/norway-2019/Norway-D5-small-49_hpxt17.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398518/trip/norway-2019/Norway-D5-49_bteknr.jpg)
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398522/trip/norway-2019/Norway-D5-small-50_ftdc0r.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398511/trip/norway-2019/Norway-D5-50_eqxou6.jpg)
+
 ## **Giorno 6** | Ålesund - Torvik - Måløy - Florø - Bergen
+
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1645398523/trip/norway-2019/Norway-D6-small-51_fxzrix.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1645398522/trip/norway-2019/Norway-D6-51_lctjiq.jpg)
 
 [{{<figure src="" title="">}}]()
