@@ -8,7 +8,7 @@ author: "Michele Braga"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "From the basement to the home library."
