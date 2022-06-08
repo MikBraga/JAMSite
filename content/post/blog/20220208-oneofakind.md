@@ -33,8 +33,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-This memorable [Intel Pentium Pro](https://ark.intel.com/content/www/it/it/ark/products/49950/intel-pentium-pro-processor-180-mhz-256k-cache-60-mhz-fsb.html) was the heart of my personal computer - an AST Bravo - sitting on my office desk the first day I started working at PC Professionale.
-This specific Intel Cpu, tagged KB80521EX180, is equipped with one single thread core with a 12 stages pipeline running at 180 MHz. The core is paired with 256 Kbyte external L2 cache (yes it was still external). This beast was made of 5,5 milion transistors, a small fraction of what sits inside a modern multi core and multi thread processor.
+This memorable [Intel Pentium Pro](https://ark.intel.com/content/www/it/it/ark/products/49950/intel-pentium-pro-processor-180-mhz-256k-cache-60-mhz-fsb.html) was the heart of the personal computer - an AST Bravo - sitting on my office desk the first day I started working at PC Professionale. I used its core cycles a lot and for a long time.
+This specific Intel Cpu, tagged KB80521EX180, is equipped with one single thread core with a 12 stages pipeline running at 180 MHz. The core is paired with 256 Kbyte external L2 cache (yes it was still external). This beast is made of 5,5 milion transistors, a small fraction of what sits inside a modern multi core and multi thread processor.
 
 That AST Bravo wasn't a brand new rig - It was actually a decommissioned client of the network test lab - but it deserved respect for how much technology it was hiding inside a decidedly ugly chassis.
 It was February 2000 and we were going through a pivoting moment for the tech industry. At home I was already having fun with a more powerful machine: a mythical Intel Celeron 300A with the Mendocino core that I pushed from 300 MHz up to 450 MHz with the help of an Alpha Cooler equipped with a lapped cooper interface. And this was just the beginning. 
