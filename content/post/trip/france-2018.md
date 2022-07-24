@@ -34,9 +34,15 @@ editPost:
 ---
 
 Before starting to tell you about our road trip in France I would like to say a few words about how this journey was born. The original plan was to visit the Loire region from Bordeaux where we would rent a car. We spent a lot of time searching and planning to find the right balance between the cost of the flight and the rental in order to save the maximum budget for the actual trip.
-Few days before finalize the flight booking I had an epiphany and I did a quick check on the budget needed to do a round trip by car from our home to the Loire region. This option would have eliminated the cost of flying and parking at the airport, giving us the opportunity to experience the landscape, the towns, the cities and the people along the way. The difference in cost was minimal so we opted for this second option.
+Few days before finalizing the flight booking I had an epiphany and I did a quick check on the budget needed to do a round trip by car from our home to the Loire region. This option would have eliminated the cost of flying and parking at the airport, giving us the opportunity to experience the landscape, the towns, the cities and the people along the way. The difference in cost was minimal so we opted for this second option.
 The day we left, I went to Orio al Serio airport to collect the rented car. If you are wondering why we did not go with our car the reason is soon said: our Yaris with 15 years of age would not have held up the journey.
 After packing everything in our car we started the engine and our journey: from Caravaggio to the Loire region and back.
 
 ## **Day 1** | Caravaggio - Le Puy-en-Velay
+The first day of our journey was only half planned. We decided to draw a master plan without going to much into details. The goal was to pass the Frejus tunnel as soon as possible and the go wild for the rest of day.
 
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1658650893/trip/france-2018/Francia-Dx-small-9_kzarlr.jpg" title="...">}}]()
+
+[{{<figure src="" title="...">}}]()
+
+[{{<figure src="" title="...">}}]()
