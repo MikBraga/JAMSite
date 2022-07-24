@@ -58,17 +58,17 @@ editPost:
 
 ## **Giorno 2** | Vik - Jokulsarlon - Vik
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739611/trip/iceland-2014/Islanda-2014-D2-small-1_zxgdnq.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739613/trip/iceland-2014/Islanda-2014-D2-1_iuh2bz.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739611/trip/iceland-2014/Islanda-2014-D2-small-1_zxgdnq.jpg" title="A prima vista i paesaggi possono sembrare molto austeri, ma nascondo un fascino che incanta e ammalia sempre di più con il passare dei giorni.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739613/trip/iceland-2014/Islanda-2014-D2-1_iuh2bz.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739612/trip/iceland-2014/Islanda-2014-D2-small-3_kqwj1v.jpg" title="Lo scatto fortuito che non avrei saputo fare meglio.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739600/trip/iceland-2014/Islanda-2014-D2-3_i0jglu.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739615/trip/iceland-2014/Islanda-2014-D2-small-5_dfjzvw.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739605/trip/iceland-2014/Islanda-2014-D2-5_fq3xfa.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739615/trip/iceland-2014/Islanda-2014-D2-small-5_dfjzvw.jpg" title="Sotto la pelle fredda dei ghiacciai si nascondono grotte cesellate dalla mano esperta della natura. Nelle giornate in cui il sole riesce bucare le nuvole autunnali, la luce filtra attraverso il ghiaccio fino alle profondità delle grotte regalando spettacoli al limite dell'incredibile.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739605/trip/iceland-2014/Islanda-2014-D2-5_fq3xfa.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739613/trip/iceland-2014/Islanda-2014-D2-small-4_gxyrdq.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739617/trip/iceland-2014/Islanda-2014-D2-4_srhtfa.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739613/trip/iceland-2014/Islanda-2014-D2-small-4_gxyrdq.jpg" title="Aqua e terra mescolati insieme e congelati in un istante di fantastica bellezza.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739617/trip/iceland-2014/Islanda-2014-D2-4_srhtfa.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739616/trip/iceland-2014/Islanda-2014-D2-small-9_z9acwr.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739618/trip/iceland-2014/Islanda-2014-D2-9_kl7pvq.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739616/trip/iceland-2014/Islanda-2014-D2-small-9_z9acwr.jpg" title="Jokulsarlon si tuffa in un lago collegato al mare. Pezzi del ghiacciaio navigano come una interminabile flotta verso le acque aperte.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739618/trip/iceland-2014/Islanda-2014-D2-9_kl7pvq.jpg)
 
-[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739615/trip/iceland-2014/Islanda-2014-D2-small-6_j5m12p.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739611/trip/iceland-2014/Islanda-2014-D2-6_fnxfmf.jpg)
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739615/trip/iceland-2014/Islanda-2014-D2-small-6_j5m12p.jpg" title="Il panorama è instancabile.">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739611/trip/iceland-2014/Islanda-2014-D2-6_fnxfmf.jpg)
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1638739617/trip/iceland-2014/Islanda-2014-D2-small-10_fesaqa.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1638739615/trip/iceland-2014/Islanda-2014-D2-10_binaox.jpg)
 
