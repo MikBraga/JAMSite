@@ -8,7 +8,7 @@ author: “Michele Braga”
 # author: [“Me”, “You”] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: Trieste
 hidemeta: false
 comments: false
 description: “La Loire on the road.”
