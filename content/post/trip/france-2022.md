@@ -33,6 +33,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+## **Planning**
+In February we decided that the holiday destination for 2022 would be Brittany. Based on the experience of traveling in the Loire region in 2018 we immediately decided to make the journey by car.
+Having two weeks of time we decided to search and rent a typical country house and to us it a basecamp to explore the surroundings. Using Airbnb, Booking and B&B search engine we found a awesome solution in [Plaudaniel](https://abnb.me/4aMFJkcYVrb)
+
 ## **Day 1** | First steps
 The plan for today is to pass the Mont Blanc Tunnel and the head our car to Annecy where we plan to have our first stop.
 

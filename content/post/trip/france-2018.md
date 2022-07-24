@@ -38,8 +38,10 @@ Few days before finalizing the flight booking I had an epiphany and I did a quic
 The day we left, I went to Orio al Serio airport to collect the rented car. If you are wondering why we did not go with our car the reason is soon said: our Yaris with 15 years of age would not have held up the journey.
 After packing everything in our car we started the engine and our journey: from Caravaggio to the Loire region and back.
 
-## **Day 1** | Caravaggio - Le Puy-en-Velay
-The first day of our journey was only half planned. We decided to draw a master plan without going to much into details. The goal was to pass the Frejus tunnel as soon as possible and the go wild for the rest of day.
+## **Day 1** | Bergamo - Le Puy-en-Velay
+The first day of our journey was only half planned. We decided to draw a master plan without going to much into details. The goal was to pass the Frejus tunnel as soon as possible and then to go wild for the rest of day.
+We were driving on the highway when we decided to exit and search a tourist office to get some inspiration of the surroundings. We got some good advices and decided to head to Le Puy-en-Velay driving on local roads in the region where the Loire River originates.
+Along the way we spotted a castle in the distance and decided to go have a look. The castle is called Château Lavoute Polignac and is worth a stop.
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1658650893/trip/france-2018/Francia-Dx-small-9_kzarlr.jpg" title="...">}}]()
 
