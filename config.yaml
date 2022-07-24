@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: mikbraga.net
-  description: "Il blog di Michele Braga"
+  description: "Michele Braga personal blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Michele Braga
   # author: ["Me", "You"] # multiple authors
@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: ...
-    Content: Benvenuti nel mio blog
+    Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
