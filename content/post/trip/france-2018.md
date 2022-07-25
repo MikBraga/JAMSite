@@ -40,7 +40,7 @@ After packing everything in our car we started the engine and our journey: from 
 
 ## **Day 1** | Bergamo - Le Puy-en-Velay
 The first day of our journey was only half planned. We decided to draw a master plan without going to much into details. The goal was to pass the Frejus tunnel as soon as possible and then to go wild for the rest of day.
-We were driving on the highway when we decided to exit and search a tourist office to get some inspiration of the surroundings. We got some good advices and decided to head to Le Puy-en-Velay driving on local roads in the region where the Loire River originates.
+We were driving on the highway when we decided to exit and search a tourist office to get some inspiration to explore the surroundings. We got some good advices and decided to head to Le Puy-en-Velay, driving on local roads in the region where the Loire River originates.
 Along the way we spotted a castle in the distance and decided to go have a look. The castle is called Château Lavoute Polignac and is worth a stop.
 
 [{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1658650893/trip/france-2018/Francia-Dx-small-9_kzarlr.jpg" title="...">}}]()
