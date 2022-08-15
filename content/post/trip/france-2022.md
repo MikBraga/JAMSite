@@ -54,7 +54,7 @@ The plan for the first day was to pass the Mont Blanc Tunnel by midday and to go
 ## **Day 2** | Approaching Bretagne
 After sleeping in the suburb of Clermont Ferrand we spent the next morning visiting the city. The cathedral and the alleys of the old town were a wonderful surprise.
 
-[{{<figure src="" title="...">}}]()
+[{{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1660582481/trip/france-2022/France-2022-D2-small-1_qwqqkz.jpg" title="...">}}](https://res.cloudinary.com/mikbraga/image/upload/v1660582482/trip/france-2022/France-2022-D2-1_s3vnzb.jpg)
 
 [{{<figure src="" title="...">}}]()
 
