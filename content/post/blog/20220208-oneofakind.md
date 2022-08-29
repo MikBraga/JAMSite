@@ -42,6 +42,6 @@ It was February 2000 and we were going through a pivoting moment for the tech in
 
 Despite non being a shiny custom-built machine, my first office computer remained in my heart: the Pentium Pro - with all its 180 MHz - paired with the Microsoft Windows NT 4.0 Workstation operating system and a croaking hard drive were all I needed to launch myself at full speed into the world of computer technology.
 
-After being retired, that AST Bravo had to wait for many years in the basement before seeing the sunlight again. This particular piece of bare metal binds so many memories that it deserves a special place and today it has found it. It will join the company on my home library to another CPU that has made history, the legendary [AMD Ryzen Threadripper 1950X](https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-1950x).
+After being retired, that AST Bravo had to wait for many years in the basement before seeing the sunlight again. This particular piece of bare metal binds so many memories that it deserves a special place and today it has found it. It will join the company on my home bookshelf to another CPU that has made history, the legendary [AMD Ryzen Threadripper 1950X](https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-1950x).
 
 {{<figure src="https://res.cloudinary.com/mikbraga/image/upload/v1654699524/blog/amd-threadripper-1950x_mvtwql.jpg" title="">}}
