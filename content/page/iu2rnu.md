@@ -1,5 +1,5 @@
 ---
-title: "IU2RNU"
+title: "iu2rnu"
 date: 2023-07-03T23:30:03+01:00
 # weight: 1
 # aliases: ["/first"]
