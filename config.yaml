@@ -119,18 +119,22 @@ menu:
       name: Categories
       url: /categories/
       weight: 10
+    - identifier: iu2rnu
+      name: IU2RNU
+      url: /page/iu2rnu/
+      weight: 20
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: search
       name: Cerca
       url: /search/
-      weight: 30
+      weight: 40
     - identifier: contatti
       name: Contatti
       url: /page/contatti/
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
