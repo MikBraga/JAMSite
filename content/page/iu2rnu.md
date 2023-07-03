@@ -34,3 +34,5 @@ editPost:
 ---
 
 <script src="https://clublog.org/stats.php?call=IU2RNU" type="text/javascript"></script>
+
+<iframe align="top" frameborder="0" height="100" name="iframe" scrolling="yes" src="https://clublog.org/stats_iframe.php?call=IU2RNU" width="400"></iframe>
